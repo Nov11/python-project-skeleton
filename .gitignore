@@ -1,0 +1,7 @@
+venv
+.eggs
+.pytest_cache
+build
+dist
+galicsource.egg-info
+.idea
