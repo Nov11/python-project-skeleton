@@ -11,7 +11,8 @@ setup(
     description='various code snippets',
     install_requires=[
         'pandas',
-        'numpy'
+        'numpy',
+        'tensorflow==2.7.0'
     ],
     setup_requires=['pytest-runner'],
     tests_require=['pytest'],
